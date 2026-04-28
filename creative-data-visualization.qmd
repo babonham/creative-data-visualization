@@ -31,7 +31,7 @@ toy_data <- expand.grid(site = sites,
 head(toy_data)
 ```
 
-Inspiration
+Inspiration:
 I wanted to create some form of abstract art to display oyster reef assemblages. I thought it would be fun to mimic this paint bubble style of art!
 ```{r}
 #| out-width: ###px
